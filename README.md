@@ -29,7 +29,6 @@ The driver has to face various difficult scenarios for proper testing which are 
 ## How we are analyzing?
 Our AR application with the help of AI is analyzing that how many times the driver broke the rules, hit the obstacles in the virtual world by driving in the physical world, and at the end, a whole report is generating whether the test is passed or failed.
 
-## What have we created?
-> Here's a peek at the prototype and visuals for our app. You can find a comprehensive prototype [here](https://www.figma.com/proto/27xTGwxALzqnQDu5I5z0gB/We-V-Are-R-Driving?page-id=0%3A1&node-id=1%3A187&viewport=241%2C48%2C0.14&scaling=scale-down-width&starting-point-node-id=1%3A187) and App designs [here](https://www.figma.com/file/27xTGwxALzqnQDu5I5z0gB/We-V-Are-R-Driving?node-id=0%3A1).
+
 
 <img width="410" alt="Landing Screen-VR Driving" src="https://user-images.githubusercontent.com/77114532/136711639-9b5d9869-dd8e-4145-a958-955ce27a7001.png"> <img width="410" alt="Home Screen-VR Driving" src="https://user-images.githubusercontent.com/77114532/136711642-707ca7bf-2185-4984-9b9b-392b04320da5.png"> <img width="410" alt="Virtual Simulator Mode-VR Driving" src="https://user-images.githubusercontent.com/77114532/136711650-c0bfbc28-2b08-493e-bab3-845fb4fd1084.png"> <img width="410" alt="AR Driving Test-VR Driving" src="https://user-images.githubusercontent.com/77114532/136711655-121d2b87-cf6f-408b-b03b-2b0b065162b0.png">
